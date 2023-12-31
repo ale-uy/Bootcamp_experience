@@ -23,3 +23,5 @@ La importancia de reducir el riesgo crediticio ha llevado a una institución fin
 **3. Construcción de Modelos:** Experimentar con algunos algoritmos de machine learning como Regresión Logística, Árboles de Decisión, Random Forest, Naive Bayes, entre otros.
 
 **4. Evaluación y Selección del Modelo:** Evaluar los modelos utilizando métricas como precisión, recall, área bajo la curva ROC, y F1-score. Seleccionar el modelo con el mejor rendimiento para la predicción de la solvencia crediticia.
+
+## [LINK AL NOTEBOOK](https://github.com/ale-uy/Bootcamp_experience/blob/main/Plantilla_Credit_Scoring_Prediction.ipynb)
